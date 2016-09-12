@@ -6,8 +6,8 @@ from app import app
 @app.route("/index")
 def index():
     user = {
-        "full_name": "Matt Smith",
-        "username": "mattsmith1",
+        "full_name": "Jason Mize",
+        "username": "jasonmize",
     }
 
 
